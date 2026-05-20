@@ -32,11 +32,11 @@ This project analyzes bike sales performance at three bike shops, as well as pro
 ## Preview
 | Entity Relational Diagram             | Sales Trend                         |
 |---------------------------------|----------------------------------------|
-| ![](images/ERD.png)   | ![](images/Salestrend_chart.png) |
+| ![](Images/ERD.png)   | ![](Images/Salestrend_chart.png) |
 
 | Top Products            | Dashboard                         |
 |---------------------------------|----------------------------------------|
-| ![](images/TopSalesproduct_chart.png)   | ![](images/Dashboard.png) |
+| ![](Images/TopSalesproduct_chart.png)   | ![](Images/Dashboard.png) |
 
 ## 🔗 Full Project
 More detailed explanation available on Notion: 
